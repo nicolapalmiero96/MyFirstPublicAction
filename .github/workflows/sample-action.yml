@@ -1,0 +1,5 @@
+name: sample action
+on: push
+jobs:
+  hello-world:
+    runs-on: ubuntu-latest
